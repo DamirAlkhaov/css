@@ -253,3 +253,17 @@ a:focus {
 .text-danger {
     color: var(--danger);
 }
+
+/* Text Alignment */
+
+.text-center {
+    text-align: center;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
+}

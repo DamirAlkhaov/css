@@ -27,3 +27,17 @@ Typography | Stable | https://github.com/veyeb/css/blob/main/docs/content/utilit
 ```html live
 <p class="text-danger">Danger</p>
 ```
+
+## Text Alignment
+
+```html live
+<p class="text-center">Center</p>
+```
+
+```html live
+<p class="text-left">Left</p>
+```
+
+```html live
+<p class="text-right">Right</p>
+```
