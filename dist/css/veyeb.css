@@ -1,6 +1,10 @@
 :root {
     --primary: rgb(1, 228, 162);
     --secondary: rgb(250, 250, 250);
+    --info: cyan;
+    --success: lime;
+    --warning: yellow;
+    --danger: red;
 }
 
 * {
@@ -192,4 +196,30 @@ body {
 
 .mr-auto {
     margin-right: auto;
+}
+
+/* Text Colors */
+
+.text-primary {
+    color: var(--primary);
+}
+
+.text-secondary {
+    color: var(--secondary);
+}
+
+.text-info {
+    color: var(--info);
+}
+
+.text-success {
+    color: var(--success);
+}
+
+.text-warning {
+    color: var(--warning);
+}
+
+.text-danger {
+    color: var(--danger);
 }
