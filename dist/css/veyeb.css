@@ -29,6 +29,7 @@ body {
 .button:hover,
 .button:focus,
 .button:active {
+    text-decoration: none;
     filter: grayscale(25%);
 }
 

@@ -26,3 +26,8 @@ Buttons | Stable | https://github.com/veyeb/css/blob/main/docs/content/component
 ```html live
 <button class="button button-large">Secondary Button</button>
 ```
+
+## Hyperlink Button
+```html live
+<a class="button">Hyperlink Button</a>
+```
