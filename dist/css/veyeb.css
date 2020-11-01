@@ -12,8 +12,38 @@
 }
 
 body {
+    background-color: rgba(1, 228, 162, 0.05);
+    margin: 0;
+    color: rgb(61, 61, 61);
     font-size: 1rem;
 } 
+
+button,
+select,
+input,
+textarea {
+    outline: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0;
+}
+
+a {
+    color: var(--primary);
+    text-decoration: none;
+}
+
+a:hover,
+a:focus {
+    text-decoration: underline;
+}
 
 /* Card */
 
