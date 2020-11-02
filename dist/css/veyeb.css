@@ -115,6 +115,10 @@ a:focus {
     font-size: 1.25rem;
 }
 
+.button.button-full-width {
+    width: 100%;
+}
+
 /* Margins */
 
 .mt-0 {

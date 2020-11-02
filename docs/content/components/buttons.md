@@ -31,3 +31,8 @@ Buttons | Stable | https://github.com/veyeb/css/blob/main/docs/content/component
 ```html live
 <a class="button">Hyperlink Button</a>
 ```
+
+## Full Width Button
+```html live
+<a class="button button-full-width">Full Width Button</a>
+```
