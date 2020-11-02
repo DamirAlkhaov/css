@@ -5,6 +5,7 @@
     --success: lime;
     --warning: yellow;
     --danger: red;
+    --muted: rgb(111, 111, 111);
 }
 
 * {
